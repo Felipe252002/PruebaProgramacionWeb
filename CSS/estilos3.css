@@ -60,6 +60,16 @@ footer .logotipo-footer{
 .altura-a-b{
     padding: 40px 0;
 }
+.inicio{
+    margin: 0 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.inicio:hover{
+    color: rgb(158, 158, 158);
+}
 
 @media screen and (max-width: 952px){
     #tamañoimg{
